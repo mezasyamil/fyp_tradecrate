@@ -20,6 +20,9 @@ public class Message_Fragment extends Fragment {
         View v = inflater.inflate(R.layout.message_fragment_layout, container, false);
     /*    FloatingActionButton newItemFAB = v.findViewById(R.id.new_inventory_fab);
         newItemFAB.setVisibility(View.INVISIBLE);*/
+
+        //testcommitGit
+
         return v;
     }
 }
